@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="137744f1-356f-4c64-9f88-aac011623a2c" name="changes" comment="task-trello-PSaDh1cT/develop">
+      <change afterPath="$PROJECT_DIR$/.idea/bitrixlangplugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1683235695" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LotNTe1JflgcMqbJpgf4FoMwVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images/illustrations" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="D:\МАХАОН проекты\dmz-front\node_modules\stylelint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+    <property name="ts.external.directory.path" value="D:\МАХАОН проекты\dmz-front for hh github\dmz-front\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\МАХАОН проекты\dmz-front\src\assets\images\illustrations" />
+      <recent name="D:\МАХАОН проекты\dmz-front\mocker\search" />
+      <recent name="D:\МАХАОН проекты\dmz-front\src\scripts\main\components" />
+      <recent name="D:\МАХАОН проекты\dmz-front\src\assets\docs" />
+      <recent name="D:\МАХАОН проекты\dmz-front\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\МАХАОН проекты\dmz-front\src\pages\components" />
+      <recent name="D:\МАХАОН проекты\dmz-front\src\scripts\main\components\form-field" />
+      <recent name="D:\МАХАОН проекты\dmz-front\src\pages\components\elements" />
+      <recent name="D:\МАХАОН проекты\dmz-front\src\styles\modules" />
+      <recent name="D:\МАХАОН проекты\dmz-front\src\assets\images\logo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="137744f1-356f-4c64-9f88-aac011623a2c" name="text-align" comment="" />
+      <created>1676549223320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676549223320</updated>
+      <workItem from="1676549225370" duration="74329000" />
+      <workItem from="1676920830895" duration="69949000" />
+      <workItem from="1677399330998" duration="11639000" />
+      <workItem from="1678083628403" duration="82534000" />
+      <workItem from="1678371709249" duration="72287000" />
+      <workItem from="1678692150287" duration="45817000" />
+      <workItem from="1678788861251" duration="29699000" />
+      <workItem from="1678868396204" duration="88480000" />
+      <workItem from="1679156177818" duration="3220000" />
+      <workItem from="1679260245183" duration="23027000" />
+      <workItem from="1679469802983" duration="29608000" />
+      <workItem from="1679538844501" duration="70153000" />
+      <workItem from="1679805630660" duration="30232000" />
+      <workItem from="1679916314665" duration="6314000" />
+      <workItem from="1679923662533" duration="58497000" />
+      <workItem from="1680156678050" duration="1689000" />
+      <workItem from="1680162551148" duration="1593000" />
+      <workItem from="1680164758238" duration="10581000" />
+      <workItem from="1680247341529" duration="1563000" />
+      <workItem from="1680262481613" duration="41665000" />
+      <workItem from="1680723818158" duration="2889000" />
+      <workItem from="1680761617225" duration="16030000" />
+      <workItem from="1680811393210" duration="7597000" />
+      <workItem from="1680851620488" duration="12437000" />
+      <workItem from="1681109505921" duration="3718000" />
+      <workItem from="1681127220324" duration="8145000" />
+      <workItem from="1681716093253" duration="627000" />
+      <workItem from="1681806670166" duration="6801000" />
+      <workItem from="1683233963852" duration="256000" />
+      <workItem from="1683234848663" duration="2251000" />
+    </task>
+    <task id="LOCAL-00001" summary="task-task-25440/develop slider shadow">
+      <created>1678859092137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678859092137</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task-25441/develop bg image position">
+      <created>1678860057552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678860057552</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task-task-25451/develop header img, icon join with title in cards">
+      <created>1678860683066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678860683066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task-25342/develop fix hover and spaces">
+      <created>1678861090040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678861090040</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task-trello-yxmYfBCT/develop styles on tags in privacy policy">
+      <created>1680068696379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680068696380</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task-trello-PSaDh1cT/develop disable submit btn when citizenship checkbox is not checked">
+      <created>1680846207512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680846207512</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="task-25458/develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="task-trello-QedhOiaC/develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="task-trello-aPWevbMw/develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="task-trello-rioaxPay" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="task-25378/develop" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="banners" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="task-25341/develop" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task-task-25440/develop slider shadow" />
+    <MESSAGE value="task-25441/develop bg image position" />
+    <MESSAGE value="task-task-25451/develop header img, icon join with title in cards" />
+    <MESSAGE value="task-25342/develop fix hover and spaces" />
+    <MESSAGE value="task-25559/develop cookies, success and error modals, fix styles for popup modal" />
+    <MESSAGE value="task-25450/develop font size in vacancy title trello-VAgaGkJE" />
+    <MESSAGE value="task-trello-yxmYfBCT/develop styles on tags in privacy policy" />
+    <MESSAGE value="task-trello-TIRJd6Bo/develop styles for accordion body" />
+    <MESSAGE value="task-trello-3nuAzg3x/develop go to initial vacancies list after empty search by pushing cross" />
+    <MESSAGE value="task-trello-PSaDh1cT/develop disable submit btn when citizenship checkbox is not checked" />
+    <option name="LAST_COMMIT_MESSAGE" value="task-trello-PSaDh1cT/develop disable submit btn when citizenship checkbox is not checked" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+</project>
